@@ -216,3 +216,644 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
 JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
 1602858969387	Marionette	INFO	Stopped listening on port 40627
+1602871111321	geckodriver	INFO	Listening on 127.0.0.1:53329
+1602871112336	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBtKWEq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871116150	Marionette	INFO	Listening on port 38701
+1602871116255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1248:3
+
+1602871128537	Marionette	INFO	Stopped listening on port 38701
+1602871154626	geckodriver	INFO	Listening on 127.0.0.1:39797
+1602871154631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebRg4DP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871157055	Marionette	INFO	Listening on port 44917
+1602871157139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602871188640	Marionette	INFO	Stopped listening on port 44917
+1602871296851	geckodriver	INFO	Listening on 127.0.0.1:55783
+1602871296858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLo3Ujn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871299489	Marionette	INFO	Listening on port 38875
+1602871299565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602871321367	Marionette	INFO	Stopped listening on port 38875
+1602871412804	geckodriver	INFO	Listening on 127.0.0.1:34039
+1602871412812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBP9VAB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871415797	Marionette	INFO	Listening on port 46459
+1602871415823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602871480362	geckodriver	INFO	Listening on 127.0.0.1:43899
+1602871480368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH3U698"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871483363	Marionette	INFO	Listening on port 45021
+1602871483378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602871490119	Marionette	INFO	Stopped listening on port 45021
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileH3U698/protections.sqlite
+JavaScript error: , line 0: uncaught exception: undefined
+1602871515217	Marionette	INFO	Stopped listening on port 46459
+1602871669403	geckodriver	INFO	Listening on 127.0.0.1:54807
+1602871669411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXPBcwx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871672439	Marionette	INFO	Listening on port 40987
+1602871672524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602871678703	Marionette	INFO	Stopped listening on port 40987
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileXPBcwx/protections.sqlite
+1602871755540	geckodriver	INFO	Listening on 127.0.0.1:44133
+1602871755546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVBNwWF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602871757617	Marionette	INFO	Listening on port 34123
+1602871757902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602871771216	Marionette	INFO	Stopped listening on port 34123
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+1602873091797	geckodriver	INFO	Listening on 127.0.0.1:33823
+1602873091804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecbaqum"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873094374	Marionette	INFO	Listening on port 45713
+1602873094418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873102642	Marionette	INFO	Stopped listening on port 45713
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602873140165	geckodriver	INFO	Listening on 127.0.0.1:40799
+1602873140174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLl02Tx"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873142782	Marionette	INFO	Listening on port 43111
+1602873142883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602873149932	Marionette	INFO	Stopped listening on port 43111
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileLl02Tx/protections.sqlite
+1602873178059	geckodriver	INFO	Listening on 127.0.0.1:44217
+1602873178065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet77pbv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873180744	Marionette	INFO	Listening on port 41493
+1602873180784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873187719	Marionette	INFO	Stopped listening on port 41493
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilet77pbv/protections.sqlite
+1602873226472	geckodriver	INFO	Listening on 127.0.0.1:38987
+1602873226478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJPY4pD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873229059	Marionette	INFO	Listening on port 45293
+1602873229089	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873235840	Marionette	INFO	Stopped listening on port 45293
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+1602873273186	geckodriver	INFO	Listening on 127.0.0.1:46223
+1602873273192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexqVSjm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873275891	Marionette	INFO	Listening on port 35907
+1602873275915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873282414	Marionette	INFO	Stopped listening on port 35907
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilexqVSjm/protections.sqlite
+1602873391537	geckodriver	INFO	Listening on 127.0.0.1:55501
+1602873391543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEVmUB7"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873400709	Marionette	INFO	Listening on port 42761
+1602873400786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873437375	geckodriver	INFO	Listening on 127.0.0.1:52015
+1602873437382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesCmpGR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873445611	Marionette	INFO	Listening on port 33599
+1602873446589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873456113	Marionette	INFO	Stopped listening on port 33599
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+1602873472796	geckodriver	INFO	Listening on 127.0.0.1:57805
+1602873472804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP4ZwD5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873475270	Marionette	INFO	Listening on port 43835
+1602873475313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873510892	geckodriver	INFO	Listening on 127.0.0.1:50151
+1602873510902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekDsJI5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873518472	Marionette	INFO	Listening on port 36539
+1602873518521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602873534599	Marionette	INFO	Stopped listening on port 36539
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602873556709	Marionette	INFO	Stopped listening on port 42761
+1602873556742	Marionette	INFO	Stopped listening on port 43835
+1602873723711	geckodriver	INFO	Listening on 127.0.0.1:43151
+1602873723719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXLtq08"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873726729	Marionette	INFO	Listening on port 44097
+1602873726750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873735310	Marionette	INFO	Stopped listening on port 44097
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602873769345	geckodriver	INFO	Listening on 127.0.0.1:47953
+1602873769351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg87PrL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873771844	Marionette	INFO	Listening on port 45753
+1602873771885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873816569	geckodriver	INFO	Listening on 127.0.0.1:51397
+1602873816575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebhMwSD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602873819310	Marionette	INFO	Listening on port 41591
+1602873819384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602873828359	Marionette	INFO	Stopped listening on port 41591
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+1602873843715	Marionette	INFO	Stopped listening on port 45753
+1602874195628	geckodriver	INFO	Listening on 127.0.0.1:44827
+1602874195636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLNDSiU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602874198484	Marionette	INFO	Listening on port 46789
+1602874198544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602874217317	geckodriver	INFO	Listening on 127.0.0.1:59175
+1602874217324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile83H7uP"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602874220347	Marionette	INFO	Listening on port 40483
+1602874220432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602874375841	Marionette	INFO	Stopped listening on port 40483
+1602874379552	Marionette	INFO	Stopped listening on port 46789
+1602875401366	geckodriver	INFO	Listening on 127.0.0.1:47643
+1602875401371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8VPXoE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875403975	Marionette	INFO	Listening on port 45601
+1602875403986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602875462436	geckodriver	INFO	Listening on 127.0.0.1:43581
+1602875462441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefg2N22"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875464945	Marionette	INFO	Listening on port 42661
+1602875464955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875484182	Marionette	INFO	Stopped listening on port 42661
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602875519605	Marionette	INFO	Stopped listening on port 45601
+1602875572201	geckodriver	INFO	Listening on 127.0.0.1:55899
+1602875572208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH1IZ6k"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875575561	Marionette	INFO	Listening on port 44207
+1602875575620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875583987	Marionette	INFO	Stopped listening on port 44207
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602875650579	geckodriver	INFO	Listening on 127.0.0.1:43421
+1602875650585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileANgSqi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875653241	Marionette	INFO	Listening on port 41447
+1602875653294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875661891	Marionette	INFO	Stopped listening on port 41447
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602875668380	geckodriver	INFO	Listening on 127.0.0.1:47329
+1602875668386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNTIHXA"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875670885	Marionette	INFO	Listening on port 40041
+1602875670907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875679732	geckodriver	INFO	Listening on 127.0.0.1:54907
+1602875679736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLWPtbh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875682577	Marionette	INFO	Listening on port 37387
+1602875682647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875725299	geckodriver	INFO	Listening on 127.0.0.1:59975
+1602875725307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerzK7Ag"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875731528	Marionette	INFO	Listening on port 39621
+1602875731626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875740342	Marionette	INFO	Stopped listening on port 39621
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+ExceptionHandler::GenerateDump cloned child 30665
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1602875812646	geckodriver	INFO	Listening on 127.0.0.1:49575
+1602875812664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRETylw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875819829	Marionette	INFO	Listening on port 42187
+1602875819885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875837707	Marionette	INFO	Stopped listening on port 42187
+1602875849573	geckodriver	INFO	Listening on 127.0.0.1:58797
+1602875849587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWs6qNl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875860165	Marionette	INFO	Listening on port 35905
+1602875860245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875874305	Marionette	INFO	Stopped listening on port 35905
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602875927435	geckodriver	INFO	Listening on 127.0.0.1:49841
+1602875927462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef1QfRL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875932009	Marionette	INFO	Listening on port 33639
+1602875932139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602875945504	Marionette	INFO	Stopped listening on port 33639
+1602875993675	geckodriver	INFO	Listening on 127.0.0.1:36943
+1602875993699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoR54Uy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602875998178	Marionette	INFO	Listening on port 43205
+1602875998214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876009329	Marionette	INFO	Stopped listening on port 43205
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602876073890	geckodriver	INFO	Listening on 127.0.0.1:55047
+1602876073898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5L1A7O"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876077289	Marionette	INFO	Listening on port 43769
+1602876077313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876088027	geckodriver	INFO	Listening on 127.0.0.1:57709
+1602876088038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4e3Zue"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876098604	Marionette	INFO	Listening on port 40913
+1602876099572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602876514987	geckodriver	INFO	Listening on 127.0.0.1:34977
+1602876515997	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileymvfWW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876520896	Marionette	INFO	Listening on port 36671
+1602876521118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876531174	Marionette	INFO	Stopped listening on port 36671
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602876531775	geckodriver	INFO	Listening on 127.0.0.1:41043
+1602876531780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTRYPN3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876534390	Marionette	INFO	Listening on port 36143
+1602876534493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876543449	Marionette	INFO	Stopped listening on port 36143
+1602876544035	geckodriver	INFO	Listening on 127.0.0.1:47233
+1602876544039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile684bNO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876546674	Marionette	INFO	Listening on port 38491
+1602876546748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876556058	Marionette	INFO	Stopped listening on port 38491
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602876557160	geckodriver	INFO	Listening on 127.0.0.1:44395
+1602876557167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev5xs6t"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876559908	Marionette	INFO	Listening on port 40429
+1602876559976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876569092	Marionette	INFO	Stopped listening on port 40429
+1602876569669	geckodriver	INFO	Listening on 127.0.0.1:37851
+1602876569673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekhOGmT"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602876572376	Marionette	INFO	Listening on port 44675
+1602876572384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/search/helix/1.24.0/vendors.79a83726.chunk.js, line 2: Error: Request failed with status code 403
+1602876580155	Marionette	INFO	Stopped listening on port 44675
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilekhOGmT/protections.sqlite
