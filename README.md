@@ -13,6 +13,7 @@ For this project, we will be using python and Selenium
 - Any Linux Distribution
 - pip 10.0.1 (python 3.7)
 - virtualenv
+- [geckodriver 0.27.0 ](https://github.com/mozilla/geckodriver/releases)
 ```
 
 ## Setting the Environment
