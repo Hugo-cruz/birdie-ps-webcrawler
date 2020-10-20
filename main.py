@@ -5,10 +5,10 @@ import utils as utils
 
 refrigerator_page = 'https://www.lowes.com/c/Refrigerators-Appliances'
 
-
 if __name__ == "__main__":
     
     subcategory_pages = crawler.get_subcategory_pages(refrigerator_page)
+    print(subcategory_pages)
     products = []
     for subcategory in subcategory_pages:
         utils.merge_lists(products,crawler.get_products_from_subcategory_page(subcategory))

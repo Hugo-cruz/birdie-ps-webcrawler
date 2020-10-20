@@ -45,6 +45,13 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+
+## Testing the app
+  1. Run Tests 
+```
+pytest
+```
+
 ## Authors
 
 * **Hugo Fellipe Lage Alvarães da Cruz**
