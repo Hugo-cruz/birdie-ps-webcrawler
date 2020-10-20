@@ -1,0 +1,5 @@
+{'SKU': '1000245231', 'Título': '25.5-cu_ft_side-by-side_refrigerator_with_ice_maker_black', 'URL': 'https://www.lowes.com/pd/Frigidaire-25-5-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Black/1000245231'}
+{'SKU': '1000236845', 'Título': '28.4-cu_ft_side-by-side_refrigerator_with_ice_maker_fingerprint-resistant_stainless_steel', 'URL': 'https://www.lowes.com/pd/Whirlpool-28-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000236845'}
+{'SKU': '1000332339', 'Título': '21.4-cu_ft_side-by-side_refrigerator_with_ice_maker_fingerprint-resistant_stainless_steel', 'URL': 'https://www.lowes.com/pd/Whirlpool-21-4-cu-ft-Side-by-Side-Refrigerator-with-Ice-Maker-Fingerprint-Resistant-Stainless-Steel/1000332339'}
+{'SKU': '1000940476', 'Título': '3.1-cu_ft_freestanding_mini_fridge_freezer_compartment_silver_mist', 'URL': 'https://www.lowes.com/pd/Frigidaire-3-1-cu-ft-Freestanding-Mini-Fridge-Freezer-Compartment-Silver-Mist/1000940476'}
+https://www.lowes.com/pd/Frigidaire-3-3-cu-ft-Freestanding-Mini-Fridge-Silver-Mist/1000788204https://www.lowes.com/pd/Hisense-3-3-cu-ft-Top-Freezer-Refrigerator-Silver-ENERGY-STAR/1002922034

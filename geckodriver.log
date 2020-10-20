@@ -1767,3 +1767,196 @@ JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1
 ExceptionHandler::GenerateDump cloned child 24897
 ExceptionHandler::WaitForContinueSignal waiting for continue signal...
 ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1603216243663	geckodriver	INFO	Listening on 127.0.0.1:54869
+1603216244673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaNgNrH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216248529	Marionette	INFO	Listening on port 40415
+1603216248585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+1603216289929	Marionette	INFO	Stopped listening on port 40415
+1603216291918	geckodriver	INFO	Listening on 127.0.0.1:32979
+1603216291924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegIWuSE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216294547	Marionette	INFO	Listening on port 35431
+1603216294632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+1603216313239	Marionette	INFO	Stopped listening on port 35431
+1603216314048	geckodriver	INFO	Listening on 127.0.0.1:41431
+1603216314054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebeEzMu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216317111	Marionette	INFO	Listening on port 34123
+1603216317162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1248:3
+
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+1603216322309	Marionette	INFO	Stopped listening on port 34123
+1603216326509	geckodriver	INFO	Listening on 127.0.0.1:56235
+1603216326515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezcuW7V"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216329130	Marionette	INFO	Listening on port 38721
+1603216329223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+1603216340896	Marionette	INFO	Stopped listening on port 38721
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603216343818	geckodriver	INFO	Listening on 127.0.0.1:37157
+1603216343830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG66vp3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216348364	Marionette	INFO	Listening on port 43095
+1603216348446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/www/cq/5.1.62/clientlibs/lowes-mobile-first/export-commons.min.js, line 7: TypeError: window.digitalData is undefined
+1603216357639	Marionette	INFO	Stopped listening on port 43095
+1603216358336	geckodriver	INFO	Listening on 127.0.0.1:48117
+1603216358343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeGLvZQ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216360954	Marionette	INFO	Listening on port 39993
+1603216361054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+1603216435230	Marionette	INFO	Stopped listening on port 39993
+1603216437041	geckodriver	INFO	Listening on 127.0.0.1:53897
+1603216437048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerNqBPy"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216441408	Marionette	INFO	Listening on port 45777
+1603216441463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+1603216580943	geckodriver	INFO	Listening on 127.0.0.1:34999
+1603216581958	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeZ737D"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216585030	Marionette	INFO	Listening on port 42913
+1603216585074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+1603216596720	Marionette	INFO	Stopped listening on port 42913
+1603216597620	geckodriver	INFO	Listening on 127.0.0.1:53279
+1603216597633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaFD2iV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216601551	Marionette	INFO	Listening on port 40213
+1603216601651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603216612444	Marionette	INFO	Stopped listening on port 40213
+JavaScript error: https://apps.bazaarvoice.com/deployments/Lowes/main_site/production/en_US/bv.js, line 20: Error: Error: could not load https://analytics-static.ugc.bazaarvoice.com/prod/static/3/bv-analytics.js
+1603216613335	geckodriver	INFO	Listening on 127.0.0.1:34603
+1603216613344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegDRc8y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216616435	Marionette	INFO	Listening on port 35017
+1603216616458	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+1603216621894	geckodriver	INFO	Listening on 127.0.0.1:51515
+1603216621899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTV7qYN"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216624755	Marionette	INFO	Listening on port 45673
+1603216624812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+1603216629686	geckodriver	INFO	Listening on 127.0.0.1:39247
+1603216629695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC0nirv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216632416	Marionette	INFO	Listening on port 45507
+1603216632504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/www/node/global-header-footer/5.10.0/global_vendors.702bec4b.chunk.js, line 2: Error: Request failed with status code 403
+1603216638866	Marionette	INFO	Stopped listening on port 45507
+1603216677865	Marionette	INFO	Stopped listening on port 45777
+1603216677893	Marionette	INFO	Stopped listening on port 35017
+1603216677959	Marionette	INFO	Stopped listening on port 45673
+1603216682014	geckodriver	INFO	Listening on 127.0.0.1:49821
+1603216682021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileElHyky"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216684662	Marionette	INFO	Listening on port 39285
+1603216684732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/www/cq/5.1.62/clientlibs/lowes-mobile-first/export-commons.min.js, line 7: TypeError: window.digitalData is undefined
+1603216696038	Marionette	INFO	Stopped listening on port 39285
+1603216696827	geckodriver	INFO	Listening on 127.0.0.1:55771
+1603216696835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLNE7ND"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216699421	Marionette	INFO	Listening on port 43593
+1603216699444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603216709437	Marionette	INFO	Stopped listening on port 43593
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://apps.bazaarvoice.com/deployments/Lowes/main_site/production/en_US/bv.js, line 20: Error: Error: could not load https://analytics-static.ugc.bazaarvoice.com/prod/static/3/bv-analytics.js
+1603216711614	geckodriver	INFO	Listening on 127.0.0.1:51431
+1603216711619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMUzllD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216714187	Marionette	INFO	Listening on port 36547
+1603216714227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603216726076	Marionette	INFO	Stopped listening on port 36547
+1603216726660	geckodriver	INFO	Listening on 127.0.0.1:39401
+1603216726670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVaj7Ml"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216729275	Marionette	INFO	Listening on port 37987
+1603216729283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/lazy-load-element.js, line 9: TypeError: $(...).offset() is undefined
+JavaScript error: https://www.lowescdn.com/node/pdp/gcp/helix/2.115.0/vendors.606c37e9.chunk.js, line 2: Error: Request failed with status code 403
+1603216733815	geckodriver	INFO	Listening on 127.0.0.1:50461
+1603216733820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex0BlhK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216735720	Marionette	INFO	Listening on port 35225
+1603216735727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/www/node/global-header-footer/5.10.0/global_vendors.702bec4b.chunk.js, line 2: Error: Request failed with status code 403
+1603216741543	Marionette	INFO	Stopped listening on port 35225
+1603216765482	Marionette	INFO	Stopped listening on port 37987
+1603216862685	geckodriver	INFO	Listening on 127.0.0.1:42043
+1603216862691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler93uZY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216865490	Marionette	INFO	Listening on port 46363
+1603216865515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lowescdn.com/www/cq/5.1.62/clientlibs/lowes-mobile-first/export-commons.min.js, line 7: TypeError: window.digitalData is undefined
+1603216879329	Marionette	INFO	Stopped listening on port 46363
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603216880078	geckodriver	INFO	Listening on 127.0.0.1:43207
+1603216880082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUDuPCK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216883063	Marionette	INFO	Listening on port 40571
+1603216883092	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603216896122	Marionette	INFO	Stopped listening on port 40571
+1603216896848	geckodriver	INFO	Listening on 127.0.0.1:38991
+1603216896856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile24Z7C0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216899832	Marionette	INFO	Listening on port 40075
+1603216899867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603216913485	Marionette	INFO	Stopped listening on port 40075
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603216914419	geckodriver	INFO	Listening on 127.0.0.1:39689
+1603216914434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTogtJI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216917592	Marionette	INFO	Listening on port 45033
+1603216917646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603216928434	Marionette	INFO	Stopped listening on port 45033
+1603216929429	geckodriver	INFO	Listening on 127.0.0.1:50047
+1603216929432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9xHMe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603216933230	Marionette	INFO	Listening on port 40435
+1603216933251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.adobedtm.com/a79066311cccac7e8666800492afa7c9f1e49767/scripts/satellite-584872d564746d09960088ad.js, line 110: TypeError: s is undefined
+JavaScript error: https://www.lowescdn.com/www/node/global-header-footer/5.10.0/footer-standalone.ee2234e8.js, line 1: TypeError: e.theme.color.background is undefined
+1603216939629	Marionette	INFO	Stopped listening on port 40435

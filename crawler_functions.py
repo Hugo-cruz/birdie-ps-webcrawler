@@ -25,7 +25,6 @@ def get_product_info(url):
     driver = webdriver.Firefox()
     driver.get(url)
     datalayer = driver.execute_script('return dataLayer')
-    print(datalayer["products"][0]["productInfo"])
     driver.quit()
     
     return utils.parse_product_dict(datalayer["products"][0]["productInfo"],url)
